@@ -7,3 +7,5 @@
     #- shell: hostname -f
     #- shell: whoami
     - shell: ls -al /usr/bin/python*
+    - shell: which python
+    - shell: python --version
