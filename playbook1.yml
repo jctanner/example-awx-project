@@ -3,5 +3,5 @@
   gather_facts: False
   tasks:
     - shell: env
-    - shell: hostname -f
-    - shell: whoami
+    #- shell: hostname -f
+    #- shell: whoami
